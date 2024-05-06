@@ -1,0 +1,14 @@
+D:\first_quarter\programs\obj\Debug\net7.0\programs.GeneratedMSBuildEditorConfig.editorconfig
+D:\first_quarter\programs\obj\Debug\net7.0\programs.AssemblyInfoInputs.cache
+D:\first_quarter\programs\obj\Debug\net7.0\programs.AssemblyInfo.cs
+D:\first_quarter\programs\obj\Debug\net7.0\programs.csproj.CoreCompileInputs.cache
+D:\first_quarter\programs\bin\Debug\net7.0\programs.exe
+D:\first_quarter\programs\bin\Debug\net7.0\programs.deps.json
+D:\first_quarter\programs\bin\Debug\net7.0\programs.runtimeconfig.json
+D:\first_quarter\programs\bin\Debug\net7.0\programs.dll
+D:\first_quarter\programs\bin\Debug\net7.0\programs.pdb
+D:\first_quarter\programs\obj\Debug\net7.0\programs.dll
+D:\first_quarter\programs\obj\Debug\net7.0\refint\programs.dll
+D:\first_quarter\programs\obj\Debug\net7.0\programs.pdb
+D:\first_quarter\programs\obj\Debug\net7.0\programs.genruntimeconfig.cache
+D:\first_quarter\programs\obj\Debug\net7.0\ref\programs.dll
